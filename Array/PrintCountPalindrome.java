@@ -1,4 +1,4 @@
-package Array;
+;
 
 // print and count all the palindrome number in the array 
 

@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class RotateElementKPosition {
     public static void main(String[] args) {

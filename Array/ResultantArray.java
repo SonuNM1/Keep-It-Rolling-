@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class ResultantArray {
     public static void main(String[] args) {

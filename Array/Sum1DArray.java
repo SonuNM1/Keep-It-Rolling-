@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class Sum1DArray {
     public static void main(String[] args) {

@@ -69,3 +69,36 @@
 - Word Pattern
 - Keyboard Row
 - Roman to Integer (Map based)
+
+------------------------------------------------------------------------------------------------------------------------------
+
+HashMap Basics
+
+1. Count Frequency of Every Character ⭐⭐⭐⭐⭐
+2. Count Frequency of Every Word ⭐⭐⭐⭐
+3. Count Frequency of Array Elements ⭐⭐⭐⭐
+
+↓
+
+Searching
+
+4. Count Occurrence of a Character ⭐⭐⭐⭐⭐
+5. Most Frequent Character ⭐⭐⭐⭐
+6. Least Frequent Character ⭐⭐⭐⭐
+
+↓
+
+Duplicates
+
+7. Remove Duplicate Characters ⭐⭐⭐⭐⭐
+8. First Repeating Character ⭐⭐⭐⭐
+9. First Non-Repeating Character ⭐⭐⭐⭐⭐
+
+↓
+
+Applications
+
+10. Valid Anagram ⭐⭐⭐⭐⭐
+11. Group Anagrams ⭐⭐⭐⭐⭐
+12. Two Sum ⭐⭐⭐⭐⭐
+13. Longest Substring Without Repeating Characters ⭐⭐⭐⭐⭐

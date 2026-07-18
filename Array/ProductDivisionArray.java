@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class ProductDivisionArray {
     public static void main(String[] args) {

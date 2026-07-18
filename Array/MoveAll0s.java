@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class MoveAll0s {
     public static void main(String[] args) {

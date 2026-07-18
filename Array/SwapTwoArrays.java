@@ -1,4 +1,4 @@
-package Array;
+;
 public class SwapTwoArrays {
     public static void main(String[] args) {
         

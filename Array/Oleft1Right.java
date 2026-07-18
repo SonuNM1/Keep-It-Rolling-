@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class Oleft1Right {
     public static void main(String[] args) {

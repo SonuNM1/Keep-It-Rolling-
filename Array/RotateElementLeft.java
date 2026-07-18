@@ -1,4 +1,4 @@
-package Array ; 
+ ; 
 
 public class RotateElementLeft{
     public static void main(String[] args) {

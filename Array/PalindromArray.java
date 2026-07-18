@@ -1,4 +1,4 @@
-package Array;
+;
 
 public class PalindromArray {
     public static void main(String[] args) {
